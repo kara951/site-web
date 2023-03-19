@@ -1,5 +1,5 @@
 # Documentation 
 
-*Installation.
-*Mise en place.
-*Commit.
+* Installation.
+* Mise en place.
+* Commit.
